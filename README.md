@@ -12,14 +12,15 @@
 <br />
 <br />
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fydj1215%2Fhit-counter&count_bg=%23567CBD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" align="left" /></a>
+<a href="https://github.com/ydj1215"><img src="https://img.shields.io/github/followers/ydj1215?style=social" alt="GitHub followers"></a>
+
 
 <br />
 <br />
 
 <a href="https://opgc.me/#/users/ydj1215" target="_blank"><img src="https://api.opgc.me/githubs/users/ydj1215/tag/?theme=prism" /></a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ydj1215)](https://solved.ac/ydj1215)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ydj1215)](https://solved.ac/ydjdj2)
 
 <br />
 <br />
