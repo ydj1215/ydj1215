@@ -14,58 +14,34 @@
 
 <a href="https://github.com/ydj1215"><img src="https://img.shields.io/github/followers/ydj1215?style=social" alt="GitHub followers"></a>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ydj1215&theme=flat&column=7)](https://github.com/ydj1215/)
-
----
-
 <br />
 <br />
 
-**I'm a night 🦉**
-
-```markdown
-
-🌞 Morning     7 commits  ▌░░░░░░░░░░░░░░░░░░░░░   2.5%
-🌆 Daytime    99 commits  ███████▎░░░░░░░░░░░░░  35.1%
-🌃 Evening    92 commits  ██████▊░░░░░░░░░░░░░░  32.6%
-🌙 Night      84 commits  ██████▎░░░░░░░░░░░░░░  29.8%
-
-```
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 <br />
+<br />
+<br />
+<br />
+<br />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkssud8150&bg_color=1a1b27&hide_border=false&text_color=c1c1cb&custom_title=Weekly+development)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydj1215&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ydj1215&theme=tokyonight)](https://git.io/streak-stats) 
   
-<!-- 
-```markdown
-
-Python      26 hrs 15 mins  ██████████████████▒░  77.1%
-HTML         3 hrs 48 mins  █████░░░░░░░░░░░░░░░  11.2%
-Markdown     3 hrs 15 mins  ████▓░░░░░░░░░░░░░░░   9.6%
-Bash               37 mins  ███▒░░░░░░░░░░░░░░░░   1.9%
-
-``` -->
-
-
-
-
-<!--
-<a href="https://wakatime.com/@b912dd74-ff1f-4c31-a142-b7d00397b756"><img src="https://wakatime.com/badge/user/b912dd74-ff1f-4c31-a142-b7d00397b756.svg" alt="Total time coded since Jan 26 2022" /></a>
--->
----
-
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ydj1215&theme=tokyonight)](https://git.io/streak-stats)
-
-<br />
-
-</div>
-
-</div>
-
-
-
