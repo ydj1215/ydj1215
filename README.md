@@ -2,12 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗💨&fontAlign=70)
 
-#### :wave: Welcome to My GitHub Profile!
+# :wave: Welcome to My GitHub Profile!
 
 <br />
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Hello,+I'm+Here!&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=770000&lines=Nice+to+Meet+you!&font=Dancing+Script&size=70&center=true&vCenter=true&width=600&height=100)](https://git.io/typing-svg)
 
 <br />
 <br />
