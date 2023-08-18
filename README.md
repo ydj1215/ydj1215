@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗💨&fontAlign=70)
 
 # :wave: Welcome to My GitHub Profile!
+---
 
 <br />
 <br />
@@ -16,6 +17,9 @@
 
 <br />
 <br />
+
+# 🔨 Once I've used 🔨
+---
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -31,10 +35,6 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -44,7 +44,9 @@
 <br />
 <br />
 <br />
-<br />
+
+# 💻 DEV's log 💻
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ydj1215&theme=tokyonight)]()
 
