@@ -47,4 +47,11 @@
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ydj1215&theme=tokyonight)](https://git.io/streak-stats) 
-  
+
+<br />
+<br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Have+a+Good+Day!&font=Dancing+Script&size=70&center=true&vCenter=true&width=600&height=100)](https://git.io/typing-svg)
+
+<br />
+<br />
