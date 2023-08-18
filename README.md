@@ -53,6 +53,14 @@
 <br />
 <br />
 
+# 📞 Contact 📞
+---
+
+[![Email](https://img.shields.io/badge/Email-ydjdj2%40naver.com-9C0000?style=for-the-badge)](mailto:ydjdj2@naver.com)
+
+<br />
+<br />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Have+a+Good+Day!&font=Dancing+Script&size=70&center=true&vCenter=true&width=600&height=100)](#)
 
 <br />
