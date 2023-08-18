@@ -38,7 +38,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydj1215&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydj1215&layout=compact)]()
 
 <br />
 <br />
@@ -46,7 +46,7 @@
 <br />
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ydj1215&theme=tokyonight)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ydj1215&theme=tokyonight)]()
 
 <br />
 <br />
